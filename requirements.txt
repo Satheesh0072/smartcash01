@@ -2,5 +2,10 @@ streamlit>=1.0.0
 pandas>=1.1.0
 plotly>=5.0.0
 openpyxl>=3.0.0
+rich>=10.14.0
+markdown-it-py>=2.2.0
+pygments>=2.13.0
+mdurl>=0.1
+pip install --upgrade pip        # optional, to get the latest pip
 pip install -r requirements.txt
-pip install --upgrade pip
+
